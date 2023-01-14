@@ -33,3 +33,9 @@ Here are some ideas to get you started:
  
 </a>
 </div>  
+
+
+## Skill Set  
+<div align="center">   
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/python-original.svg](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" alt="Python" height="50" /></a>  
+</div>
