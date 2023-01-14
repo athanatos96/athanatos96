@@ -160,8 +160,49 @@ Here are some ideas to get you started:
 </div>
 
 
+### MS Office
+<div align="center"> 
+ <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" style="margin-bottom: 5px;" /> 
+  </a>
+  
+ <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Microsoft PowerPoint" style="margin-bottom: 5px;" />
+ </a>
+ 
+ <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Microsoft Word" style="margin-bottom: 5px;" />
+ </a>
+</div>
+ 
+### Others
 
-
+<div align="center"> 
+ <a href="https://www.arduino.cc/" target="_blank">
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" style="margin-bottom: 5px;" />
+ </a>
+ 
+ <a href="https://grafana.com/" target="_blank">
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" style="margin-bottom: 5px;" />
+ </a>
+ 
+ <a href="https://csa-iot.org/all-solutions/zigbee/" target="_blank">
+  <img src="https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white" alt="Zigbee" style="margin-bottom: 5px;" />
+ </a>
+ 
+ <a href="https://www.selenium.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" style="margin-bottom: 5px;" />
+ </a>
+ 
+ <a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-bottom: 5px;" />
+ </a>
+ 
+ <a href="https://github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+ </a>
+ 
+</div>
 
 <!--
  height="50"
