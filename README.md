@@ -66,7 +66,8 @@ Here are some ideas to get you started:
  
 </div>
 
-### ML/DL
+### ML/DL & Data Visualization
+
 <div align="center">   
  <a href="https://pytorch.org/" target="_blank">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch" style="margin-bottom: 5px;" /> 
@@ -80,6 +81,28 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" style="margin-bottom: 5px;" /> 
  </a> 
  
+ <a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" style="margin-bottom: 5px;" /> 
+ </a>
+ 
+ <a href="https://scipy.org/" target="_blank">
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy" style="margin-bottom: 5px;" /> 
+ </a>
+ 
+ <a href="https://matplotlib.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" style="margin-bottom: 5px;" /> 
+ </a>
+ 
+ <a href="https://plotly.com/python/" target="_blank">
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" style="margin-bottom: 5px;" /> 
+ </a>
+ 
+ <a href="https://numpy.org/" target="_blank">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" style="margin-bottom: 5px;" /> 
+ </a>
+ <a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="margin-bottom: 5px;" /> 
+ </a>
  
 </div>
 
