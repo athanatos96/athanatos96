@@ -36,6 +36,53 @@ Here are some ideas to get you started:
 
 
 ## Skill Set  
+
+### Languages
+
 <div align="center">   
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="50" /></a>  
+ <a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="margin-bottom: 5px;" /> 
+ </a> 
+ 
+ <a href="https://www.r-project.org/" target="_blank">
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" style="margin-bottom: 5px;" /> 
+ </a>
+ 
+ <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" style="margin-bottom: 5px;" /> 
+ </a> 
+ 
+ <a href="https://www.java.com/" target="_blank">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin-bottom: 5px;" /> 
+ </a> 
+
+ <a href="https://www.javascript.com/" target="_blank">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="margin-bottom: 5px;" /> 
+ </a> 
+ 
+ <a href="https://www.php.net/" target="_blank">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="margin-bottom: 5px;" /> 
+ </a> 
+ 
 </div>
+
+### ML/DL
+<div align="center">   
+ <a href="https://pytorch.org/" target="_blank">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch" style="margin-bottom: 5px;" /> 
+ </a> 
+ 
+ <a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" style="margin-bottom: 5px;" /> 
+ </a> 
+ 
+ <a href="https://keras.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" style="margin-bottom: 5px;" /> 
+ </a> 
+ 
+ 
+</div>
+
+<!--
+ height="50"
+-->
