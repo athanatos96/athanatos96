@@ -106,6 +106,63 @@ Here are some ideas to get you started:
  
 </div>
 
+### Databases
+<div align="center"> 
+ <a href="https://www.mysql.com/" target="_blank">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin-bottom: 5px;" /> 
+ </a>
+ 
+ <a href="https://www.sqlite.org/" target="_blank">
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="margin-bottom: 5px;" /> 
+ </a>
+ <!--
+ <a href="https://mariadb.org/" target="_blank">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" style="margin-bottom: 5px;" /> 
+ </a>
+ <a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-bottom: 5px;" /> 
+ </a>
+ -->
+</div>
+
+### Cloud
+<div align="center"> 
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="margin-bottom: 5px;" /> 
+ </a>
+</div>
+
+### IDEs/Editors
+<div align="center"> 
+ <a href="https://www.eclipse.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse" style="margin-bottom: 5px;" /> 
+ </a>
+ 
+ <a href="https://jupyter.org/" target="_blank">
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" style="margin-bottom: 5px;" /> 
+ </a>
+ 
+ <a href="https://netbeans.apache.org/" target="_blank">
+  <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeansIDE" style="margin-bottom: 5px;" /> 
+ </a>
+ 
+ <a href="https://posit.co/" target="_blank">
+  <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" style="margin-bottom: 5px;" /> 
+ </a>
+ 
+ <a href="https://www.sublimetext.com/" target="_blank">
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime Text" style="margin-bottom: 5px;" /> 
+ </a>
+ 
+ <a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="margin-bottom: 5px;" /> 
+ </a>
+</div>
+
+
+
+
+
 <!--
  height="50"
 -->
