@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on solving LeetCode Problems -> [Repository](https://github.com/athanatos96/LeetCode/)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on applying Machine Learning / Artificial Intelligence to Investing and Portfolio management.
-- 🤔 I’m looking for help with finding a **Machine Learning Engineering / Data Scientist** job in New York City.
+<!--- 🤔 I’m looking for help with finding a **Machine Learning Engineering / Data Scientist** job in New York City.-->
 - 💬 Ask me about Machine Learning / Artificial Intelligence
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alejandro-parra-garcia/)
 
